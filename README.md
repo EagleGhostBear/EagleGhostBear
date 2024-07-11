@@ -11,4 +11,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007396.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ghost11062})](https://solved.ac/{ghost11062})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghost11062)](https://solved.ac/ghost11062)
