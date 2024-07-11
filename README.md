@@ -1,16 +1,14 @@
-## Hi there 👋
+# PARK GEONRYUL
 
-<!--
-**Mendax17/Mendax17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skill
+![Spring boot](https://img.shields.io/badge/Springboot-007396.svg?&style=for-the-badge&logo=Springboot&logoColor=white)
+![node.js](https://img.shields.io/badge/node.js-002396.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-002462.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-Here are some ideas to get you started:
+# Tool
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-002462.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-007396.svg?&style=for-the-badge&logo=DataGrip&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007396.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ghost11062})](https://solved.ac/{ghost11062})
